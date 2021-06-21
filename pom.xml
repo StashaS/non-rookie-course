@@ -19,6 +19,7 @@
         <module>1-wrapper-var-record</module>
         <module>2-operators-instanceof</module>
         <module>3-switch-enum</module>
+        <module>4-string</module>
     </modules>
 
 
