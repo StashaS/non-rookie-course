@@ -7,3 +7,4 @@
 2. Порядок выполнения операторов, Pattern matching instanceof
 3. Switch expressions, yield, enum
 4. String, text blocks
+5. Мутабельность и иммутабельность, final, varargs
