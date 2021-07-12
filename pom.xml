@@ -21,6 +21,7 @@
         <module>3-switch-enum</module>
         <module>4-string</module>
         <module>5-immutable-varargs</module>
+        <module>6-generics</module>
     </modules>
 
 
