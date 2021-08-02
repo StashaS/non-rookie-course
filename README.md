@@ -8,3 +8,6 @@
 3. Switch expressions, yield, enum
 4. String, text blocks
 5. Мутабельность и иммутабельность, final, varargs
+6. Generics
+7. Иммутабельные коллекции и общая информация о Stream
+8. Лямбда-выражения, функциональные интерфейсы
