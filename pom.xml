@@ -23,6 +23,7 @@
         <module>5-immutable-varargs</module>
         <module>6-generics</module>
         <module>7-immutable-collections-stream</module>
+        <module>8-lambda</module>
     </modules>
 
 
