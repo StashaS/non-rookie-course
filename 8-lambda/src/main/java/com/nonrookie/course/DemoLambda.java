@@ -1,7 +1,6 @@
 package com.nonrookie.course;
 
 import java.util.function.Function;
-import java.util.function.Predicate;
 
 public class DemoLambda {
 
@@ -26,7 +25,6 @@ public class DemoLambda {
         printCode(String::length, "Kate456");
 
         printCodeFunction(String::length, "Mary123");
-
     }
 
     private static void printCode(Convertable convertable, String text) {
