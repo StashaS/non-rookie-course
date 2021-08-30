@@ -1,9 +1,9 @@
 package com.nonrookie.course;
 
-public class Main {
+public class MainJava {
 
     public static void main(String... args) {
-        DemoObjects.demonstration();
+        DemoObjectsJava.demonstration();
     }
 
 }

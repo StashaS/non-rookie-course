@@ -3,7 +3,7 @@ package com.nonrookie.course;
 import java.util.List;
 import java.util.Objects;
 
-public class DemoObjects {
+public class DemoObjectsJava {
 
     public static void demonstration() {
         System.out.println("OBJECTS");
