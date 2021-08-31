@@ -24,6 +24,8 @@
         <module>6-generics</module>
         <module>7-immutable-collections-stream</module>
         <module>8-lambda</module>
+        <module>9-optional-collectors</module>
+        <module>10-objects</module>
     </modules>
 
 
