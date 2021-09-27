@@ -10,8 +10,8 @@
     <version>${examples.version}</version>
 
     <properties>
-        <maven.compiler.source>16</maven.compiler.source>
-        <maven.compiler.target>16</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <examples.version>1.0</examples.version>
     </properties>
 
@@ -26,6 +26,7 @@
         <module>8-lambda</module>
         <module>9-optional-collectors</module>
         <module>10-objects</module>
+        <module>11-java-17</module>
     </modules>
 
 
